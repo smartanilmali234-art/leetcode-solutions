@@ -46,6 +46,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1382-balance-a-binary-search-tree](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,24 @@
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Greedy
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->

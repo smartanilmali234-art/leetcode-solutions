@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0006-zigzag-conversion](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
 |  |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/1382-balance-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/smartanilmali234-art/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
